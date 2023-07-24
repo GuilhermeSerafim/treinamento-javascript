@@ -10,7 +10,7 @@ const listaDeDestinos = new Array(
     `Salvador`,
     `Sao Paulo`,
     `Rio de Janeiro`
-)
+);
 console.log(listaDeDestinos);
 
 //Adicionando um elemento a lista
