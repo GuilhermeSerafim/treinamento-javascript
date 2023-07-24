@@ -20,3 +20,8 @@ console.log(listaDeDestinos);
 /*Quando declaramos como const não podemos alterar o tipo de uma lista, por ex:
 listaDeDestinos = 2;
  */
+
+//2 - Qual elemento da lista | 1 - Quantos elementos da lista?
+listaDeDestinos.splice(2, 1);
+console.log(listaDeDestinos);
+console.log(listaDeDestinos[1], listaDeDestinos[0]);
