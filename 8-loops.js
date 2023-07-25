@@ -39,11 +39,11 @@ if(podeComprar && destinoExiste) {
 
 //for
 //inicialização, condicional, incremento
-for(let cont = 0; cont < 3; cont++) {
-    if (listaDeDestinos[contador] == destino) {
-        destinoExiste = true;
-        break;
-    } else {
-        destinoExiste = false;
-    }
-}
+// for(let i = 0; i < 3; i++) {
+//     if (listaDeDestinos[i] == destino) {
+//         destinoExiste = true;
+//         break;
+//     } else {
+//         destinoExiste = false;
+//     }
+// }
